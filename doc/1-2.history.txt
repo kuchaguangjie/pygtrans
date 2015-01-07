@@ -3,6 +3,8 @@ history
 ------
 history
 
+* [v0.1 beta1]
+* basic program to get result,
 * 
 
 ------
