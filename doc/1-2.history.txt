@@ -6,6 +6,9 @@ history
 * [v0.1 beta1]
 * basic program to get result,
 * 
+* [v0.1 beta2]
+* installer,
+* 
 
 ------
 

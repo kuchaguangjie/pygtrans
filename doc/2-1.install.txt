@@ -1,0 +1,23 @@
+install
+
+------
+install - linux
+
+steps:
+* get source code,
+* enter code base folder
+	e.g. cd pygtrans/
+* chmod +x *.sh
+* vi install.sh
+	
+* ./install.sh
+	add "sudo" as prefix if need,
+* 
+* After instal, use 'pygtrans' as command.
+	Enter the command without params, will get a help.
+* 
+* ok
+* 
+
+------
+

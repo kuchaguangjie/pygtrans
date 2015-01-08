@@ -3,14 +3,14 @@ log
 ------
 now
 
-* installer		here ...
+* config file		here ...
 * 
 
 ------
 TODO
 
+* code refactor,
 * node by review program,
-* 
 * 
 * 
 
