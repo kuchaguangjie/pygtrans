@@ -9,6 +9,12 @@ see:
 	doc/2-1.install.txt
 
 ------
+Configuration
+
+After install could config at:
+	~/.config/pygtrans/config.ini
+
+------
 Usage
 
 command line:
