@@ -1,0 +1,7 @@
+### pygtrans config
+
+[basic]
+# Google domain. Use "google.cn" if you are in China mainland.
+google_domain = google.com
+source_language = auto
+target_language = en
