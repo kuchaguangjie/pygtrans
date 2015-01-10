@@ -13,11 +13,14 @@ steps:
 * ./install.sh
 	add "sudo" as prefix if need,
 * 
-* After instal, use 'pygtrans' as command.
+* pygtrans -v
+* After install, use 'pygtrans' as command.
 	Enter the command without params, will get a help.
+* 
+* vi ~/.config/pygtrans/config.ini
+	change config, if need,
 * 
 * ok
 * 
 
 ------
-

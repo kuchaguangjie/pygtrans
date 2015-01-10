@@ -7,7 +7,7 @@ from BeautifulSoup import BeautifulSoup
 import ConfigParser
 from os.path import expanduser
 
-version = "v0.1" + " beta2"
+version = "v0.1" + " beta3"
 
 # read config
 googleDomain = "google.com"

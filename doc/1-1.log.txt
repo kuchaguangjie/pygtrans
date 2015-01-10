@@ -3,7 +3,7 @@ log
 ------
 now
 
-* config file		here ...
+* 		here ...
 * 
 
 ------
