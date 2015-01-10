@@ -12,6 +12,7 @@ TODO
 * code refactor,
 * node by review program,
 * 
+* currently only support python2, try support python3 too,
 * 
 
 ------

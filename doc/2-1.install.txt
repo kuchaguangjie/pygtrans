@@ -4,6 +4,10 @@ install
 install - linux
 
 steps:
+* pre-requisites:
+	* python2
+		the code support python2, but not python3 yet,
+	* 
 * get source code,
 * enter code base folder
 	e.g. cd pygtrans/
