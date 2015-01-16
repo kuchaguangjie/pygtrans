@@ -19,7 +19,7 @@ except ImportError:
 	from bs4 import BeautifulSoup
 
 
-version = "v0.1" + " beta3"
+version = "v0.1" + " beta4"
 
 # read config
 googleDomain = "google.com"
