@@ -9,6 +9,8 @@ steps:
 		the code support python2, but not python3 yet,
 	* 
 * get source code,
+* put it at proper location, where u should keep it as long as u want to use it,
+	e.g /opt/pygtrans/
 * enter code base folder
 	e.g. cd pygtrans/
 * chmod +x *.sh

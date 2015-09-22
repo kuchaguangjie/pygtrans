@@ -12,6 +12,9 @@ history
 * [v0.1 beta3]
 * config file,
 * 
+* [v0.1 beta5]
+* correct command-line tip,
+* 
 
 ------
 

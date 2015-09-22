@@ -19,7 +19,7 @@ except ImportError:
 	from bs4 import BeautifulSoup
 
 
-version = "v0.1" + " beta4"
+version = "v0.1" + " beta5"
 
 # read config
 googleDomain = "google.com"
@@ -49,7 +49,7 @@ if config.has_option("basic","source_language"):
 key = ""
 if len(sys.argv) < 2:
 	print("Please use following formats:\n\t%s" % ( "pygtrans <input_string> [<target_language>] [<source_language>]"))
-	print("\t%s" % ("pygtrans (-v | -version)"))
+	print("\t%s" % ("pygtrans (-v | --version)"))
 	print("Common languages:\n\t%s\n" % ("en, zh, zh_TW, ja, fr, de,"))
 	sys.exit(1)
 elif sys.argv[1]=="-v" or sys.argv[1]=="--version":
