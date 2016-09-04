@@ -18,7 +18,8 @@ see:
 ###Configuration
 
 After install could config at:
-	~/.config/pygtrans/config.ini
+
+> ~/.config/pygtrans/config.ini
 
 ###Usage
 
